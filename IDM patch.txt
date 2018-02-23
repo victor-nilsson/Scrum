@@ -1,3 +1,1 @@
-IDM 4.5.4 - eDirectory 8.8.8 sp 8
-IDM 4.5.0 - eDirectory 8.8.8 sp 3 - SUSE 11 SP3
-IDM 4.0.2 - eDirectory 8.8.7 - SUSE 10 SP4
+Testar
